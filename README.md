@@ -12,7 +12,8 @@
 ### Converter
   3.  Converter : 
            It has user struct having required fields for user information.Responsibility of converter is to convert data of valid users into json format 
-4. main:
+### main.go
+ main:
       It has main function which will iniatize the route using mux and apply get and post requests on respective function
  
                
